@@ -1,0 +1,7 @@
+python-aiml
+numpy
+matplotlib
+scikit-learn
+IPython
+ipykernel
+ipywidgets
